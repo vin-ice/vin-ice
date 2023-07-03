@@ -1,8 +1,8 @@
 ## Hi there 👋
-### Welcome To My World
 
 <!--
 **vin-ice/vin-ice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome To My World
 - 🌱 I’m currently learning SWE at ALX 
 
 Here are some ideas to get you started:
